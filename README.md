@@ -1,2 +1,2 @@
-# tea-pj
+# es-tea-manis
 Basic
